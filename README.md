@@ -19,3 +19,11 @@ Some of these games puzzles are a bit too hard because they only work in my mind
 
 ## Bugs
 Please report bugs to remymoreau12@icloud.com if you find any (:
+
+## Gallery
+<img width="580" height="323" alt="Screenshot 2026-10-16 at 7 24 32 pm" src="https://github.com/user-attachments/assets/85cfdb98-7b6e-4af6-bd39-d9fe6a114bdb" />
+<img width="557" height="306" alt="Screenshot 2026-10-16 at 7 25 09 pm" src="https://github.com/user-attachments/assets/ffd5d58c-825b-4505-b910-41b508a83c84" />
+<img width="557" height="313" alt="Screenshot 2026-10-16 at 7 24 58 pm" src="https://github.com/user-attachments/assets/a41a98b0-9f89-473e-b5ff-9446c23196e6" />
+<img width="561" height="312" alt="Screenshot 2026-10-16 at 7 24 46 pm" src="https://github.com/user-attachments/assets/015a02bf-ced4-437c-bebf-263ee3d50616" />
+<img width="552" height="310" alt="Screenshot 2026-10-16 at 7 25 24 pm" src="https://github.com/user-attachments/assets/755399e7-68a2-47b5-ba1f-fc4b20b9d53a" />
+
