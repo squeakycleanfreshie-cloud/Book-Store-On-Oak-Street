@@ -20,6 +20,9 @@ Some of these games puzzles are a bit too hard because they only work in my mind
 ## Bugs
 Please report bugs to remymoreau12@icloud.com if you find any (:
 
+## License
+This goes under the MIT licence idk what this means lol but hehe
+
 ## Gallery
 <img width="580" height="323" alt="Screenshot 2026-10-16 at 7 24 32 pm" src="https://github.com/user-attachments/assets/85cfdb98-7b6e-4af6-bd39-d9fe6a114bdb" />
 <img width="557" height="306" alt="Screenshot 2026-10-16 at 7 25 09 pm" src="https://github.com/user-attachments/assets/ffd5d58c-825b-4505-b910-41b508a83c84" />
